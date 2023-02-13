@@ -10,5 +10,8 @@ class MainActivity : AppCompatActivity() {
         val tan="Vo Quang Tan"
         var tan1=23
         val tan2=23
+        val tan1="Vo Quang Tan"
+        val tan2="Vo Quang Tan"
+        val tan2="Vo Quang Tan"
     }
 }
