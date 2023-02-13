@@ -13,5 +13,8 @@ class MainActivity : AppCompatActivity() {
         val tan4="Vo Quang Tan"
         val tan5="Vo Quang Tan"
         val tan6="Vo Quang Tan"
+
+        var tien=1
+        var tie2=1
     }
 }
