@@ -8,5 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val tan="Vo Quang Tan"
+        val tan1="Vo Quang Tan"
+        val tan2="Vo Quang Tan"
+        val tan2="Vo Quang Tan"
     }
 }
